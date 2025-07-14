@@ -1,0 +1,258 @@
+{
+  "intents": [
+    {
+      "tag": "counseling_services",
+      "patterns": [
+        "I need counseling",
+        "Can I book a counselor?",
+        "Is mental health support available?",
+        "I want to talk to someone",
+        "How do I get emotional support?",
+        "Can I schedule a counseling session?",
+        "Where is the OSA counseling office?",
+        "How to access mental wellness services?",
+        "I feel anxious, can OSA help?",
+        "What kind of counseling does OSA offer?",
+        "Is counseling free for students?",
+        "Who are the school counselors?",
+        "Can I remain anonymous during sessions?",
+        "Do I need to book an appointment?",
+        "Is there online counseling?"
+      ],
+      "responses": [
+        "You can book a session with OSA counselors through the portal or visit their office.",
+        "Mental health support is always available at OSA. Visit our counseling unit anytime.",
+        "Feel free to drop by the counseling office or contact them online for help."
+      ]
+    },
+    {
+      "tag": "student_organizations",
+      "patterns": [
+        "How to join a student organization?",
+        "What orgs are available?",
+        "Where can I find a list of clubs?",
+        "Can freshmen join orgs?",
+        "How do I register for a student org?",
+        "What are the benefits of joining a club?",
+        "Are orgs open to all students?",
+        "How do I create a new org?",
+        "Where to submit org requirements?",
+        "Is there a club fair?",
+        "Do clubs recruit members every semester?",
+        "Who approves new student orgs?",
+        "Where can I join the debate club?",
+        "Can I join more than one organization?",
+        "Are there interest-based organizations?"
+      ],
+      "responses": [
+        "Visit the OSA website or bulletin board for a list of recognized student organizations.",
+        "Yes, freshmen and all students are welcome to join organizations!",
+        "New org registration and membership forms are handled by OSA’s student engagement team."
+      ]
+    },
+    {
+      "tag": "id_services",
+      "patterns": [
+        "I lost my student ID",
+        "Where to get an ID replacement?",
+        "How to apply for a new ID?",
+        "What to do if my ID is broken?",
+        "Where is the ID processing center?",
+        "Can I get my ID reprinted?",
+        "How much is the ID replacement fee?",
+        "Is ID processing done online?",
+        "How long will it take to get my ID?",
+        "Do I need to report a lost ID?",
+        "Where do I pay for ID replacement?",
+        "Is there a form for ID request?",
+        "Can I track my ID status?",
+        "Do I need a valid reason for a new ID?",
+        "Who handles ID processing in school?"
+      ],
+      "responses": [
+        "Please proceed to the OSA Help Desk for ID concerns.",
+        "You may apply for a replacement ID online or through the OSA service window.",
+        "Lost ID reports must be filed before requesting a new one at OSA."
+      ]
+    },
+    {
+      "tag": "student_discipline",
+      "patterns": [
+        "What happens if I cheat in exams?",
+        "What are the penalties for misconduct?",
+        "How are disciplinary cases handled?",
+        "Where do I report bullying?",
+        "Is there a student conduct code?",
+        "What if a professor is unfair?",
+        "How do I file a complaint?",
+        "Can I appeal a disciplinary decision?",
+        "Who enforces student discipline?",
+        "What is the grievance process?",
+        "Can I talk to someone about harassment?",
+        "What if I was wrongly accused?",
+        "Where to report classroom issues?",
+        "Is OSA in charge of discipline?",
+        "Can students face suspension?"
+      ],
+      "responses": [
+        "Disciplinary cases are handled by OSA’s Student Discipline division.",
+        "You can file complaints or grievances directly at the OSA office.",
+        "OSA ensures all cases are reviewed fairly under the school conduct code."
+      ]
+    },
+    {
+      "tag": "scholarship_inquiries",
+      "patterns": [
+        "Are scholarships available?",
+        "How do I apply for a scholarship?",
+        "Where can I get a scholarship form?",
+        "What are the scholarship requirements?",
+        "Can I apply for multiple scholarships?",
+        "Where is the scholarship office?",
+        "Who can avail of financial aid?",
+        "What scholarships are offered by OSA?",
+        "Is there a GPA requirement?",
+        "How long does scholarship processing take?",
+        "What if I lose my scholarship?",
+        "Can I appeal a denied scholarship?",
+        "Where to submit my documents?",
+        "Is scholarship open every semester?",
+        "Do I need recommendation letters?"
+      ],
+      "responses": [
+        "Visit the OSA Scholarships and Grants Office or check our website for ongoing programs.",
+        "Scholarship applications can be submitted via the student portal or OSA counter.",
+        "Eligibility and application steps are listed in our scholarship announcements."
+      ]
+    },
+    {
+      "tag": "events_and_activities",
+      "patterns": [
+        "What events are upcoming?",
+        "Is there a leadership training soon?",
+        "Where can I register for seminars?",
+        "What are the school activities this month?",
+        "Can I host a student event?",
+        "Where to request event permits?",
+        "Is there a cultural night?",
+        "How do I join OSA activities?",
+        "Where to submit event proposals?",
+        "Can OSA help promote our org event?",
+        "Is there a calendar of activities?",
+        "What are the event guidelines?",
+        "Where can I watch past events?",
+        "Are events open to public?",
+        "How to volunteer in OSA programs?"
+      ],
+      "responses": [
+        "Check the OSA Events Board or our Facebook page for upcoming activities.",
+        "All student-led events must be coordinated with OSA for approval and logistics.",
+        "You can register for leadership trainings and events online or in-person."
+      ]
+    },
+    {
+      "tag": "lost_and_found",
+      "patterns": [
+        "I lost my umbrella",
+        "Where to report lost items?",
+        "Does the school have a lost and found?",
+        "I found a phone, where should I bring it?",
+        "How do I claim lost things?",
+        "Is there a form for lost item report?",
+        "Can I report a stolen item?",
+        "Who handles lost and found?",
+        "How long are lost items kept?",
+        "Is there a logbook of lost items?",
+        "Where is the OSA lost and found?",
+        "Can someone claim my lost ID?",
+        "What if I found someone’s wallet?",
+        "Is there CCTV for missing items?",
+        "How soon are lost items posted?"
+      ],
+      "responses": [
+        "Please visit the OSA Lost and Found section at the main lobby.",
+        "Submit a lost/found report through our online form or help desk.",
+        "OSA keeps unclaimed items for 30 days before disposal or donation."
+      ]
+
+      
+    },
+    {
+      "tag": "volunteering",
+      "patterns": [
+        "I want to volunteer",
+        "Are there outreach programs?",
+        "How to become an OSA volunteer?",
+        "What are the community service activities?",
+        "Can I earn hours for volunteering?",
+        "Where to sign up for outreach?",
+        "Are volunteers given certificates?",
+        "Can non-members join volunteer drives?",
+        "Is volunteering mandatory?",
+        "When is the next volunteer drive?",
+        "Can alumni volunteer too?",
+        "Where to get volunteer hours validated?",
+        "Is there a dress code for outreach?",
+        "What are the benefits of volunteering?",
+        "Do I need to attend training first?"
+      ],
+      "responses": [
+        "Visit the OSA Volunteer Services page or office to register for programs.",
+        "Volunteers receive certificates and hours counted toward civic engagement.",
+        "Most outreach activities are announced online and on OSA’s bulletin."
+      ]
+    },
+    {
+      "tag": "student_clearance",
+      "patterns": [
+        "How to get student clearance?",
+        "Where do I process my clearance?",
+        "Is OSA part of clearance signatories?",
+        "What are the steps to get clearance?",
+        "Is clearance required for graduation?",
+        "How long does clearance take?",
+        "Can I get a digital clearance?",
+        "Where is the clearance form?",
+        "Who signs the OSA part of the clearance?",
+        "What if I lost my clearance form?",
+        "Can I email my clearance for signing?",
+        "Do I need to pay fees before clearance?",
+        "Is there a deadline for clearance submission?",
+        "How do I follow up clearance status?",
+        "Can clearance be done during vacation?"
+      ],
+      "responses": [
+        "OSA signs clearance for org dues, discipline, and ID concerns.",
+        "Submit your clearance at the OSA counter or via your department first.",
+        "Make sure to settle any pending OSA requirements before requesting clearance."
+      ]
+      
+    },
+
+    {
+      "tag": "OSA",
+      "patterns": [
+        "Who is our Dean Of College?",
+        "Who is our SFA?",
+        "Who is our OSA Head?",
+        "Where is the library?",
+        "Where is the Program Chair?",
+        "Where is our Chancellor?",
+        "Who is our assistant Dean?",
+        "Can i get a clearace?"
+        
+      ],
+      "responses": [
+        "Our OSA Head is Dr. Leah M. Cabang",
+        "Our SFA is Maam Maria Mervea F. Tolero",
+        "Our Dean Of College is Dr. Aristotle P. Carandang",
+        "Our Chancellor is Prof. Vicente Antonio V. Pijano III",
+        "Our Assistant Dean is Dr. Milagros Saga",
+        "Cleareance, Regular or Evening?"
+      ]
+    }
+  ]
+  
+  
+}
+
